@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 require 'pry'
 
 class Anagram
@@ -28,3 +29,12 @@ class Anagram
   end
 
 end
+=======
+class Anagram
+  
+  def initialize(word)
+    @word = word
+  end
+  
+end
+>>>>>>> d3789cfb8868544207fec62fc43dbb1fdc62e217
